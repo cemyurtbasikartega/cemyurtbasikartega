@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cemyurtbasikartega
+- 👀 I’m interested in new tricks.
+- 🌱 I’m currently learning node.js + next.js
